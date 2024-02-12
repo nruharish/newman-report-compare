@@ -1,0 +1,8 @@
+{
+    "config" : {
+    "previous_run_dir" : "C:\\Users\\user1\\Downloads\\old_report",
+    "current_run_dir" : "C:\\Users\\user1\\Downloads\\new_report",
+    "report_file" : "report.txt",
+    "log_level" : "DEBUG"
+    }
+}
